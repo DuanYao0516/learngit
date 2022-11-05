@@ -1,2 +1,1 @@
-this is a text file to test 
-is use 'git rm' will delete workspace? or just delete file in respo
+this is a test txt
